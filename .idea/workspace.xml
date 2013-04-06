@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3955fdc-79a1-4646-8bfb-412842644ef2" name="Default" comment="" />
+    <list default="true" id="e3955fdc-79a1-4646-8bfb-412842644ef2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jQuery.app.factory.js" afterPath="$PROJECT_DIR$/jQuery.app.factory.js" />
+    </list>
     <ignored path="appFactory.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e3955fdc-79a1-4646-8bfb-412842644ef2" time="1364565129320" ignored="false" />
+    <file path="/Dummy.txt" changelist="e3955fdc-79a1-4646-8bfb-412842644ef2" time="1365275938623" ignored="false" />
+    <file path="/README.md" changelist="e3955fdc-79a1-4646-8bfb-412842644ef2" time="1365276018711" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +31,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="59" selection-start="138" selection-end="138" vertical-scroll-proportion="0.22928709">
+            <state line="5" column="61" selection-start="115" selection-end="115" vertical-scroll-proportion="0.16377649">
               <folding />
             </state>
           </provider>
@@ -46,6 +50,13 @@
   <component name="GitLogSettings">
     <option name="myDateState">
       <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -204,7 +215,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="59" selection-start="138" selection-end="138" vertical-scroll-proportion="0.22928709">
+        <state line="5" column="61" selection-start="115" selection-end="115" vertical-scroll-proportion="0.16377649">
           <folding />
         </state>
       </provider>

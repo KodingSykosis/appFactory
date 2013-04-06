@@ -71,7 +71,7 @@
 			};
 			
 			app.prototype = o;
-			app = new app()
+		    app = new app();
 			
 			return app;
 		},
